@@ -1,43 +1,147 @@
-<div align="center">
-  <!-- Animated Header Banner -->
-  <a href="https://github.com/gayathrig0608">
-    <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,12,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Gayathri%20G%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Cloud%20%26%20Full-Stack%20Engineer%20%7C%20Java%20%26%20Python%20Developer&descFontSize=16&descAlignY=60&descAlign=50" alt="Gayathri G Header Banner" width="100%" />
+<h1 align="center">Hi there, I'm Gayathri G 👋</h1>
+
+<h3 align="center">Computer Science & AI/Data Science Student | Java · Python · JavaScript Developer | Cloud & Full-Stack Enthusiast</h3>
+
+<p align="center">
+  <a href="mailto:gayathrig0608@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gayathrig0608%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <!-- Animated Dynamic Typing Headline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=45&lines=🚀+B.Tech+AI+%26+Data+Science+Scholar+(CGPA%3A+85%25);☁️+AWS+Serverless+%26+Cloud-Native+Architect;📱+Flutter+%26+Cross-Platform+Mobile+Developer;⚡+Java+(OOP+%26+DSA)+%7C+Python+Specialist;🌟+Open+to+Internships+%26+Exciting+Tech+Collaborations!" alt="Typing SVG" />
-  </a>
-  <p align="center">
-    📍 <b>Coimbatore, India</b> &nbsp;•&nbsp;
-    📧 <a href="mailto:gayathrig0608@gmail.com"><b>gayathrig0608@gmail.com</b></a> &nbsp;•&nbsp;
-    📱 <b>+91 9500138520</b>
-  </p>
-  <!-- Quick Action Badges -->
-  <p align="center">
-    <a href="mailto:gayathrig0608@gmail.com">
-      <img src="https://img.shields.io/badge/Email%20Me-gayathrig0608%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gayathri" />
-    </a>
-    <a href="tel:+919500138520">
-      <img src="https://img.shields.io/badge/Call%20%2F%20WhatsApp-%2B91%209500138520-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Gayathri" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Internships-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status Badge" />
-  </p>
-</div>
+  <img src="https://img.shields.io/badge/Phone-%2B91%209500138520-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gayathrig0608&style=flat-square&color=blue" alt="profile views" />
+</p>
+
 ---
-### 💫 About Me
+
+### 🎓 About Me
+
+- 🏫 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Rathinam Technical Campus, Coimbatore**
+- 📈 Current CGPA: **85%** | 🎯 Expected Graduation: **2028**
+- 💻 1+ year of hands-on **Object-Oriented Programming** across coursework and projects
+- ☁️ Cloud enthusiast — building serverless & event-driven systems on **AWS**
+- 🌱 Currently exploring full-stack development, cloud architecture, and mobile app development
+- 📫 Reach me at **gayathrig0608@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Web & Mobile**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="50%" valign="top">
+      <h4>🌩️ Smart Emergency Response System</h4>
+      <p><em>Cloud-Native · AWS</em></p>
       <ul>
-        <li>🎓 <b>Academic Track:</b> Pursuing <b>B.Tech in Artificial Intelligence & Data Science</b> at <i>Rathinam Technical Campus, Coimbatore</i> (<b>CGPA: 85%</b>, Class of 2028).</li>
-        <li>💻 <b>OOP & Engineering:</b> 1+ year of hands-on <b>Object-Oriented Programming (OOP)</b> across coursework, production-ready modules, and algorithmic problem-solving.</li>
-        <li>☁️ <b>Cloud-Native Systems:</b> Passionate about <b>AWS Serverless architectures</b> (Lambda, DynamoDB, API Gateway, S3, IAM, CloudWatch) for scalable, resilient solutions.</li>
-        <li>📱 <b>Cross-Platform Mobile:</b> Building reactive mobile experiences with <b>Flutter & Dart</b> integrated with Firebase and real-time geolocation.</li>
-        <li>🧩 <b>Core Foundations:</b> Strong command over <b>Data Structures & Algorithms (Java)</b>, Relational DBMS, and AI/ML fundamentals.</li>
-        <li>🤝 <b>Leadership & Teamwork:</b> Proven <b>Team Lead</b> on academic capstone projects — steering cross-functional peers from architecture through delivery.</li>
+        <li>Built a serverless, event-driven system using AWS Lambda, DynamoDB, API Gateway, SNS, and S3 for real-time SOS alerts and live location tracking</li>
+        <li>Implemented secure access control via IAM and end-to-end monitoring with CloudWatch, applying OOP principles for maintainable Lambda handlers</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrig0608&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="100%" />
+    <td width="50%" valign="top">
+      <h4>🚨 SOS Emergency Alert System</h4>
+      <p><em>Mobile · Flutter & Dart</em></p>
+      <ul>
+        <li>Designed a real-time mobile app in Dart (OOP) using Flutter for one-tap emergency alerts with GPS location sharing</li>
+        <li>Integrated Firebase Cloud Messaging for instant notifications, Firestore for structured data storage, and Google Maps for live tracking</li>
+      </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📋 Attendance Management System</h4>
+      <p><em>SQL · HTML/CSS</em></p>
+      <ul>
+        <li>Built a database-driven system to automate student attendance tracking and reporting, applying core DBMS and algorithmic concepts to reduce manual errors</li>
+        <li>Developed a responsive frontend to display data and generate automated reports</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗺️ Tourist Information Chatbot</h4>
+      <p><em>Zoho Platform</em></p>
+      <ul>
+        <li>Built a conversational chatbot for automated, structured Q&A on tourist destinations</li>
+        <li>Focused on dynamic data handling and user engagement</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📜 Certifications
+
+- 🔹 **Microsoft Azure Data Fundamentals** — Microsoft Learn *(Azure data architecture, relational & non-relational storage, real-time analytics)*
+- 🔹 **Data Structures & Algorithms in Java** — Infosys Springboard *(Stacks, Queues, Linked Lists, algorithmic efficiency)*
+- 🔹 **AWS Cloud Practitioner Hands-On** — Lambda, DynamoDB, S3, EC2, IAM, VPC, RDS, CloudFormation, SageMaker
+- 🔹 **Excel Fundamentals**
+- 🔹 **Artificial Intelligence – Fundamentals**
+- 🔹 **Master Guide to C Programming**
+
+---
+
+### 🧭 Leadership & Involvement
+
+> **Team Lead**, academic project team — coordinated a cross-functional group through design, development, and delivery of a cloud-based capstone project.
+
+---
+
+### 🎓 Education
+
+| Institution | Degree / Level | Score |
+|---|---|---|
+| Rathinam Technical Campus, Coimbatore | B.Tech, Artificial Intelligence & Data Science *(Expected 2028)* | CGPA: 85% |
+| Avila Convent Matriculation Hr. Sec. School | 12th Standard | 71% |
+| Avila Convent Matriculation Hr. Sec. School | 10th Standard | 74% |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <em>💡 Replace <code>YOUR_GITHUB_USERNAME</code> above with your actual GitHub username to activate the stats cards.</em>
+</p>
+
+<p align="center">📫 <b>Let's connect:</b> gayathrig0608@gmail.com | +91 9500138520</p>
